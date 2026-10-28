@@ -1,0 +1,10 @@
+auditorias/
+__pycache__/
+*.pyc
+.DS_Store
+*.skill
+*-workspace/
+# credenciales
+*credenciales*.json
+*service-account*.json
+.env
